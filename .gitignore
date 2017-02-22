@@ -1,0 +1,7 @@
+results/
+*.mat
+*.gif
+*small*.*
+CPLEX*.*
+data/
+data/mnist.pkl
