@@ -1,7 +1,7 @@
 results/
 *.mat
 *.gif
-!figs/
+!figs/res4_1.gif
 *small*.*
 CPLEX*.*
 data/
