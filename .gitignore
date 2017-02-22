@@ -2,6 +2,7 @@ results/
 *.mat
 *.gif
 !figs/res4_1.gif
+!figs/res4_2.gif
 *small*.*
 CPLEX*.*
 data/
